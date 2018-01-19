@@ -1,0 +1,25 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostchan/postcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostchan/postcss/issues"
+  },
+  "homepage": "https://github.com/ghostchan/postcss#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.2.5",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1"
+  }
+}
